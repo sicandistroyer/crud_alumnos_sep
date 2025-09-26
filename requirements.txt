@@ -2,3 +2,4 @@ flask
 flask_sqlalchemy
 psycopg2-binary #si estan en mac o linux psycopg2-binary en windows psycopg2
 gunicorn
+python-dotenv
